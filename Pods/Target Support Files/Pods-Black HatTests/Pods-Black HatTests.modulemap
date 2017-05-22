@@ -1,0 +1,6 @@
+framework module Pods_Black_HatTests {
+  umbrella header "Pods-Black HatTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
